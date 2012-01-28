@@ -1,0 +1,3 @@
+(ns project-euler.core)
+
+
